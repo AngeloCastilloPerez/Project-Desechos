@@ -5,7 +5,9 @@
 ## Prohject Power Bi
 
 ![Portada](https://user-images.githubusercontent.com/107339963/220493907-43d62bb9-6700-4dae-bc56-d19c0d0616d6.gif)
+
 <img width="577" alt="Captura de pantalla 2023-02-21 171157" src="https://user-images.githubusercontent.com/107339963/220493935-060738c0-9f7d-46e1-a4ad-94f6e96d4a76.png">
+
 <img width="575" alt="Captura de pantalla 2023-02-21 171130" src="https://user-images.githubusercontent.com/107339963/220493945-7075e9d2-7d26-45a7-92e0-069edac35bb1.png">
 
 <img width="182" alt="Captura de pantalla 2023-02-21 170729" src="https://user-images.githubusercontent.com/107339963/220493950-c5829ff7-5dbf-4d37-8b91-ed1151971e68.png">

@@ -1,4 +1,4 @@
-# Proyecto Residuos Domiciliarios
+# Proyecto Residuos Domiciliarios/project - household waste
 
 ### Hello, I would like to share this project about household solid waste, which as many of us know has a significant impact on the environment, since most of it does not break down easily and can take years and even decades to break down completely. This work was prepared with data from my country and the growth of daily waste per capita of the Peruvian population is evident.
 

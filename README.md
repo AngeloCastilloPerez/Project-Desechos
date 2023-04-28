@@ -17,7 +17,7 @@
 ## Link:
 https://app.powerbi.com/view?r=eyJrIjoiYmZmZDgzM2EtM2EzZi00NGI3LWE2MTctYjk2OWUwZjY5ODA4IiwidCI6ImRiMDRlYjM0LTczMmEtNDE4YS05MDI1LTVhZDk5ZTk1MTY0OCJ9
 
-##Dowload Data:
+## Dowload Data:
 https://www.datosabiertos.gob.pe/dataset/generaci%C3%B3n-anual-de-residuos-s%C3%B3lidos-domiciliarios/resource/d0cfbe42-ab0b-49e9-80a3#{}
 
 <a href="https://www.instagram.com/angelocastilloperz/">
